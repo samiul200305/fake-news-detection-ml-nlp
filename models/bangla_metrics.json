@@ -1,0 +1,24 @@
+{
+    "accuracy": 0.9912,
+    "precision": 0.9551,
+    "recall": 0.8626,
+    "f1_score": 0.9033,
+    "real_recall": 0.9983,
+    "fake_recall": 0.7269,
+    "threshold": 0.5,
+    "confusion_matrix": [
+        [
+            189,
+            71
+        ],
+        [
+            17,
+            9710
+        ]
+    ],
+    "language": "Bangla",
+    "labels": {
+        "0": "Fake",
+        "1": "Real"
+    }
+}
