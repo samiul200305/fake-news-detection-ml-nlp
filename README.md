@@ -188,12 +188,16 @@ Possible future improvements include:
 
 Project screenshots can be added here:
 
-```text
-screenshots/
-├── home.png
-├── analysis.png
-└── result.png
-```
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Analysis Page
+![Analysis Page](screenshots/analysis.png)
+
+### Result Page
+![Result Page](screenshots/result.png)
 
 ---
 
